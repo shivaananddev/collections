@@ -138,7 +138,7 @@
   {
     "id": 18,
     "make": "Dodge",
-    "model": "Caravan",
+    "model": "Vehicleavan",
     "price": "91278.31",
     "year": 1994,
     "color": "Indigo"
@@ -250,7 +250,7 @@
   {
     "id": 32,
     "make": "Chevrolet",
-    "model": "Monte Carlo",
+    "model": "Monte Vehiclelo",
     "price": "48987.74",
     "year": 1997,
     "color": "Khaki"
@@ -282,7 +282,7 @@
   {
     "id": 36,
     "make": "Lincoln",
-    "model": "Town Car",
+    "model": "Town Vehicle",
     "price": "39388.71",
     "year": 1988,
     "color": "Green"
@@ -1170,7 +1170,7 @@
   {
     "id": 147,
     "make": "Lincoln",
-    "model": "Town Car",
+    "model": "Town Vehicle",
     "price": "47330.81",
     "year": 1988,
     "color": "Orange"
@@ -1546,7 +1546,7 @@
   {
     "id": 194,
     "make": "Dodge",
-    "model": "Grand Caravan",
+    "model": "Grand Vehicleavan",
     "price": "82001.35",
     "year": 2005,
     "color": "Mauv"
@@ -1762,7 +1762,7 @@
   {
     "id": 221,
     "make": "Dodge",
-    "model": "Grand Caravan",
+    "model": "Grand Vehicleavan",
     "price": "86703.00",
     "year": 2002,
     "color": "Indigo"
@@ -1954,7 +1954,7 @@
   {
     "id": 245,
     "make": "Dodge",
-    "model": "Caravan",
+    "model": "Vehicleavan",
     "price": "79627.31",
     "year": 2008,
     "color": "Puce"
@@ -2546,7 +2546,7 @@
   {
     "id": 319,
     "make": "Lincoln",
-    "model": "Town Car",
+    "model": "Town Vehicle",
     "price": "70850.82",
     "year": 1993,
     "color": "Turquoise"
@@ -6314,7 +6314,7 @@
   {
     "id": 790,
     "make": "Chevrolet",
-    "model": "Monte Carlo",
+    "model": "Monte Vehiclelo",
     "price": "12008.50",
     "year": 2005,
     "color": "Green"
@@ -7186,7 +7186,7 @@
   {
     "id": 899,
     "make": "Dodge",
-    "model": "Grand Caravan",
+    "model": "Grand Vehicleavan",
     "price": "71138.71",
     "year": 1993,
     "color": "Pink"
@@ -7530,7 +7530,7 @@
   {
     "id": 942,
     "make": "Nissan",
-    "model": "Datsun/Nissan Z-car",
+    "model": "Datsun/Nissan Z-Vehicle",
     "price": "35948.39",
     "year": 1990,
     "color": "Pink"
@@ -7842,7 +7842,7 @@
   {
     "id": 981,
     "make": "Lincoln",
-    "model": "Town Car",
+    "model": "Town Vehicle",
     "price": "13755.70",
     "year": 1994,
     "color": "Aquamarine"

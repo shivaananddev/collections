@@ -21,9 +21,9 @@ public class Sorting {
 
     @Test
     public void sortingSteamOfElementsReverse() throws IOException {
-        List<Prisoner> people = database.DB.getPrisonersList();
+        List<Prisoner> prisoner = database.DB.getPrisonersList();
 
-        List<String> sorted = people.stream()
+        List<String> sorted = prisoner.stream()
                 .map(Prisoner::getFirstName)
                 .sorted(Comparator.reverseOrder())
                 .collect(Collectors.toList());
@@ -47,10 +47,10 @@ public class Sorting {
     }
 
     @Test
-    public void topTenMostExpensiveBlueCars() throws IOException {
+    public void topTenMostExpensiveBlueVehicles() throws IOException {
         List<Vehicle> vehicles = database.DB.getVehicleList();
         List<Vehicle> topTen = vehicles.stream()
-                .filter(car -> car.getColor().equalsIgnoreCase("blue"))
+                .filter(Vehicle -> Vehicle.getColor().equalsIgnoreCase("blue"))
                 .sorted(Comparator.comparing(Vehicle::getPrice).reversed())
                 .limit(10)
                 .collect(Collectors.toList());
